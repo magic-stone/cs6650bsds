@@ -1,0 +1,6 @@
+ { 
+  "host": "rdsinstanceforassignment.cmhhhhcoknci.us-west-2.rds.amazonaws.com",
+  "user": "magicbdy",
+  "password": "xy031431",
+  "database": "wearabledevice"
+}
